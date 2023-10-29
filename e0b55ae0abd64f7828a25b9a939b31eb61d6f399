@@ -1,0 +1,11 @@
+{
+ "name": "BNB Whales",
+ "website": "https://bnbwhales.net/",
+ "description": "Join us and dive deep into a sea of opportunity, where every wave is a new chance and make a splash in the crypto market",
+ "explorer": "https://bscscan.com/token/0x8689DeA88EC1E2638250Eef702E722C6dACFF70E",
+ "type": "BEP20",
+ "symbol": "BNB WHALES",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8689DeA88EC1E2638250Eef702E722C6dACFF70E"
+}
